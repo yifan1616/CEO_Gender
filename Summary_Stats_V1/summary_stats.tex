@@ -1,0 +1,56 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+
+\usepackage{graphicx}
+
+\usepackage{hyperref}
+
+\usepackage[utf8]{inputenc}
+
+\title{Summary Stats}
+
+\author{Yifan Yang}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\vfill
+\begin{figure}[h]
+\caption{Percentage of Female CEO Over Time \label{fig:pc_gender}}
+\begin{center}
+\includegraphics[width=1\textwidth]{gph/pc_gender.pdf} 
+\end{center}
+{\scriptsize
+% {\textbf{Notes:} A scatter plot and local polynomial regression of price on mpg.  Bubble size displays number of car makes at each mpg.}
+}
+\end{figure}
+\vfill
+
+
+\begin{figure}[!htb]
+\caption{Percentage of External CEO Over Time Across Gender \label{fig:pc_external_gender}}
+\centering
+\includegraphics[width=0.8\textwidth]{gph/pc_external_gender.pdf} 
+{\scriptsize
+% {\textbf{Notes:} A scatter plot and local polynomial regression of price on mpg.  Bubble size displays number of car makes at each mpg.}
+}
+\end{figure}
+\begin{figure}[!htb]
+\caption{Percentage of External Narrow Term CEO Over Time Across Gender \label{fig:pc_external_gender_ceo}}
+\centering
+\includegraphics[width=0.8\textwidth]{gph/pc_external_gender_ceo.pdf} 
+{\scriptsize
+% {\textbf{Notes:} A scatter plot and local polynomial regression of price on mpg.  Bubble size displays number of car makes at each mpg.}
+}
+\end{figure}
+\clearpage
+
+\input{Table/gai_compo.tex}
+
+\end{document}

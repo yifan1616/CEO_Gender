@@ -1,0 +1,94 @@
+\documentclass[10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{natbib}
+\usepackage{setspace}
+\usepackage{booktabs}
+\usepackage{bm}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{longtable}
+\usepackage{adjustbox}
+\bibliographystyle{abbrvnat}
+\setcitestyle{round}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+\usepackage[colorlinks=true, citecolor=blue]{hyperref}
+\usepackage[title]{appendix}
+
+\usepackage{mathpazo} 
+\usepackage[T1]{fontenc}
+\usepackage{color}
+\usepackage{amsthm}
+\usepackage{setspace}
+\usepackage{siunitx}
+\usepackage{comment}
+\usepackage{enumerate}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{pdflscape}
+\usepackage{makecell}
+\usepackage{dcolumn}
+\usepackage{multirow}
+\usepackage{placeins}
+\usepackage{tikz}
+\usepackage[justification=centering]{caption}
+\usetikzlibrary{patterns,decorations.pathreplacing}
+\usepackage[font={bf,sc}]{caption}
+\usetikzlibrary{arrows}
+% \geometry{verbose,tmargin=2.5cm,bmargin=2.5cm,lmargin=2.5cm,rmargin=2.5cm}
+\onehalfspacing
+\hypersetup{colorlinks=true,linkcolor=[rgb]{0,0,0.6},citecolor=[rgb]{0,0,0.6},urlcolor=[rgb]{0,0,0.6}}
+\makeatletter
+\usepackage[labelformat=simple]{subcaption}
+\renewcommand\thesubfigure{(\alph{subfigure})}
+\usepackage[para,online,flushleft]{threeparttable}
+\makeatletter
+\newcommand*\ExpandableInput[1]{\@@input#1 }
+\def\@biblabel#1{\hspace*{-\labelsep}}
+\makeatother
+
+\title{Gender difference in CEO Career Path}
+\author{Yifan Yang}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\input{Section/introduction}
+
+\section{Literature}
+\input{Section/literature}
+
+\section{Data and Sample Construction}
+\input{Section/data}
+
+\section{Empirical Strategy}
+\input{Section/methodology}
+
+\section{Empirical Results}
+\input{Section/analysis}
+
+\section{Conclusion}
+\input{Section/conclusion}
+
+\bibliography{reference}
+
+\newpage
+\begin{appendices}
+\input{Section/appendix}
+
+\end{appendices}
+
+\end{document}
