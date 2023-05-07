@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1679851388 "main.aux" "main.bbl" "main" 1679851396 0
+["bibtex main"] 1680793357 "main.aux" "main.bbl" "main" 1683450866 0
   "./reference.bib" 1679851375 0 d41d8cd98f00b204e9800998ecf8427e ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/bibtex/bst/natbib/abbrvnat.bst" 1284455456 26532 66bed5cc59495faaa3f9ae9af9fa5e42 ""
-  "main.aux" 1679851394 1388 cc3ad7b5c002afe9a1098a72ae661281 "pdflatex"
+  "main.aux" 1683450864 1364 96e9a3175d8f478d59750b0bb201ec81 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1679851389 "d:/Dropbox/Thesis/CEO_Gender/Draft/Draft/main.tex" "main.pdf" "main" 1679851396 0
-  "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1679851300 82507 a9eef8696c92627b87e9975edea03b2a ""
+["pdflatex"] 1683450856 "d:/Dropbox/Thesis/CEO_Gender/Draft/Draft/main.tex" "main.pdf" "main" 1683450866 0
+  "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1679866314 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1678927802 23175798 099dd288ee8cccfd8213eb3ac41424e0 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458477487 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/palatino/pplb8r.tfm" 1136775854 2532 9ad73cf4dd2173a847f2a5f5608e0b9a ""
@@ -119,7 +119,6 @@
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/adjustbox.sty" 1667304100 56907 e3e515e490dbc35309a010b5bbe1bef5 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/tc-pdftex.def" 1667304100 4070 1677cfee6374067b93f61cf57ecd7144 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/adjustbox/trimclip.sty" 1667304100 7244 36558f478da08e083d7316a63ba4bcd6 ""
-  "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsbsy.sty" 1655058189 2222 78b930a5a6e3dc2ac69b78c2057b94d7 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsgen.sty" 1655058191 4173 c989ee3ced31418e3593916ab26c793a ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/amsmath/amsmath.sty" 1655058191 88393 1adf6fa3f245270d06e3d4f8910f7fc5 ""
@@ -212,18 +211,18 @@
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Section/analysis.tex" 1679850080 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Section/analysis.tex" 1680793410 29 62813d3a3b1c87046f81243bb6ae6777 ""
   "Section/appendix.tex" 1679850088 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Section/conclusion.tex" 1679850094 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Section/data.tex" 1679850099 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Section/introduction.tex" 1679850120 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Section/literature.tex" 1679850227 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Section/methodology.tex" 1679850113 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "d:/Dropbox/Thesis/CEO_Gender/Draft/Draft/main.tex" 1679851387 2179 d49b617619eae10dc088ca8b5f73bbf2 ""
-  "main.aux" 1679851394 1388 cc3ad7b5c002afe9a1098a72ae661281 "pdflatex"
-  "main.bbl" 1679851389 283 de5ffaf5b665b622658d80bed97ba2a5 "bibtex main"
-  "main.out" 1679851394 748 729720cf94fa0361fac61b22be0d5378 "pdflatex"
-  "main.tex" 1679851387 2179 d49b617619eae10dc088ca8b5f73bbf2 ""
+  "Section/conclusion.tex" 1680793432 22 5263826852d7c88eadf74b948137ff83 ""
+  "Section/data.tex" 1683450851 42 62b89883b19172c3cc3687a929660d6a ""
+  "Section/introduction.tex" 1680793301 24 0724ce7a131568ad239c1aac91dfb03b ""
+  "Section/literature.tex" 1680793299 22 1646b413ffa80cb2664e42a9bc19f8d7 ""
+  "Section/methodology.tex" 1680793383 30 2a9a0001cf26dc4fe68a03d1e4b8bdb5 ""
+  "d:/Dropbox/Thesis/CEO_Gender/Draft/Draft/main.tex" 1683450848 2748 f9148d37f60d34ccc4dfeb48d103f1cc ""
+  "main.aux" 1683450864 1364 96e9a3175d8f478d59750b0bb201ec81 "pdflatex"
+  "main.bbl" 1680793357 283 de5ffaf5b665b622658d80bed97ba2a5 "bibtex main"
+  "main.out" 1683450864 619 0a42f4659121451d5efe549ae4bca110 "pdflatex"
+  "main.tex" 1683450848 2748 f9148d37f60d34ccc4dfeb48d103f1cc ""
   (generated)
   "main.aux"
   "main.log"
